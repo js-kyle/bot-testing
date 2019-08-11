@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "js-kyle",
+      "name": "Kyle Martin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23022619?v=4",
+      "profile": "https://github.com/js-kyle",
+      "contributions": [
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "bot-testing",
+  "projectOwner": "js-kyle",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
